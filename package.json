@@ -1,0 +1,14 @@
+{
+  "name": "traceblock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "js-sha256": "^0.10.1",
+    "time-stamp": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
